@@ -7,7 +7,7 @@ An enthusiastic student who decided to go straight to [Computer Science](https:/
 
 - ⚡ Fun fact: I don't know why the chicken crossed the street.
 
-  <br>
+  
 
 ## ✨ About me:
 
@@ -15,7 +15,7 @@ An enthusiastic student who decided to go straight to [Computer Science](https:/
 <a href="http://lattes.cnpq.br/5824922232238419"><img src="https://cloud.githubusercontent.com/assets/829487/19294883/ecba2708-9006-11e6-86c7-b467305cc88b.png" alt="CNPq" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-<br>
+
 
 ## 🧰 Languages and Tools:
 <p align="left">
